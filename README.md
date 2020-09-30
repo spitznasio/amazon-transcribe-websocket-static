@@ -8,7 +8,7 @@ This demo app uses browser microphone input and client-side JavaScript to demons
 
 Check out the [Amazon Transcribe WebSocket docs](https://docs.aws.amazon.com/transcribe/latest/dg/websocket.html).
 
-## Building and Deploying
+## Building and Deployin
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-transcribe-websocket-static)
 
@@ -20,7 +20,7 @@ We use [browserify](https://github.com/browserify/browserify) to enable browser 
 2. run `npm install`
 3. run `npm run-script build` to generate `dist/main.js`.
 
-Once you've bundled the JavaScript, all you need is a webserver. For example, from your project directory: 
+Once you've bundled the JavaScript, all you need is a webserver. For example, from your project directory:
 
 ```
 npm install --global local-web-server
